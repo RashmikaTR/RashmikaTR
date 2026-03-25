@@ -1,3 +1,13 @@
+<h1 align="center">Hi, I'm Tharusha Rashmika 👋</h1>
+
+<p align="center">
+  BSc in Information Technology (2026) · Aspiring DevOps/Fullstack Devoloper
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ntharusha&label=Profile%20views" alt="Profile views">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CFF2B&width=435&lines=Hi+I'm+Tharusha+Rashmika+%F0%9F%91%8B;I%E2%80%99m+currently+studying+on+%F0%9F%94%AD+;DevOps+Enthusiast+%F0%9F%9A%80;%F0%9F%92%AC+Ask+me+about)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
