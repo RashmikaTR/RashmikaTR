@@ -20,7 +20,7 @@
 <!-- GitHub Stats Alternative -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ntharusha&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashmikaTR&theme=react-dark" />
 </p>
 
 <p align="center">
