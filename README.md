@@ -1,17 +1,15 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharusha%20Rashmika&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20BSc%20IT%20Student%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharusha%20Rashmika&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20BSc%20IT%20Student%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=18" />
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FDBFF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Tharusha+Rashmika+👋;BSc+IT+%40+University+of+Vavuniya+🎓;Full-Stack+Web+Developer+💻;JavaScript+%7C+React+%7C+PHP+%7C+MySQL;Building+Cool+Projects+from+Sri+Lanka+🌴;Always+Learning%2C+Always+Growing+🚀" alt="Typing SVG" />
-</a>
+<!-- Animated Typing SVG — hosted on DemoLab (reliable) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7FDBFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Hey+There!+I'm+Tharusha+Rashmika+%F0%9F%91%8B;BSc+IT+%40+University+of+Vavuniya+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+PHP+%7C+MySQL;Building+Cool+Projects+from+Sri+Lanka+%F0%9F%8C%B4;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=RashmikaTR&label=Profile%20Views&color=7FDBFF&style=for-the-badge" alt="Profile Views" />
+<!-- Profile Views — using visitcount.itsvg.in (reliable, no 402) -->
+<img src="https://visitcount.itsvg.in/api?id=RashmikaTR&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/RashmikaTR?tab=followers">
   <img src="https://img.shields.io/github/followers/RashmikaTR?label=Followers&style=for-the-badge&color=7FDBFF&labelColor=1a1a2e" />
@@ -64,7 +62,7 @@ const tharusha = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RashmikaTR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaTR&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=RashmikaTR&theme=tokyonight&hide_border=true" />
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaTR&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" />
 
@@ -72,10 +70,20 @@ const tharusha = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RashmikaTR&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" />
+
+![](https://img.shields.io/badge/🎓_BSc_IT-University_of_Vavuniya-7FDBFF?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/💻_Focus-Full--Stack_Dev-blueviolet?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/🌍_Location-Sri_Lanka-green?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/📦_Repos-9_Public-orange?style=for-the-badge&labelColor=1a1a2e)
+
+<br/>
+
+<!-- GitHub Profile Summary Cards — GitHub-Actions powered, no 402 -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RashmikaTR&theme=tokyonight&hide_border=true&layout=compact" onerror="this.style.display='none'" />
+
 </div>
 
 ---
@@ -102,10 +110,16 @@ const tharusha = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RashmikaTR&theme=tokyo-night&hide_border=true&area=true&area_color=7FDBFF&color=7FDBFF&line=7FDBFF&point=ffffff" width="100%" />
+
+<!-- Native GitHub contribution calendar via github-readme-stats (same reliable Vercel instance as stats) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RashmikaTR&theme=tokyonight&hide_border=true" width="100%" />
+
+<!-- Reliable activity graph via githubchart.com — plain SVG, no backend limits -->
+<img src="https://ghchart.rshah.org/7FDBFF/RashmikaTR" alt="RashmikaTR's Contribution Chart" width="100%" />
+
 </div>
 
 ---
@@ -156,7 +170,6 @@ const tharusha = {
 <div align="center">
 
 ### 💬 Random Dev Quote
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
