@@ -8,14 +8,11 @@
 
 <br/><br/>
 
-<!-- Profile Views — komarev.com (confirmed working ✅) -->
-<img src="https://komarev.com/ghpvc/?username=RashmikaTR&color=7FDBFF&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=RashmikaTR&color=7FDBFF&label=PROFILE+VIEWS&style=for-the-badge)
 &nbsp;
-<a href="https://github.com/RashmikaTR?tab=followers">
-  <img src="https://img.shields.io/github/followers/RashmikaTR?label=Followers&style=for-the-badge&color=7FDBFF&labelColor=1a1a2e" />
-</a>
+[![Followers](https://img.shields.io/github/followers/RashmikaTR?label=Followers&style=for-the-badge&color=7FDBFF&labelColor=1a1a2e)](https://github.com/RashmikaTR?tab=followers)
 &nbsp;
-<img src="https://img.shields.io/github/stars/RashmikaTR?label=Stars&style=for-the-badge&color=FFD700&labelColor=1a1a2e" />
+![Stars](https://img.shields.io/github/stars/RashmikaTR?label=Stars&style=for-the-badge&color=FFD700&labelColor=1a1a2e)
 
 </div>
 
