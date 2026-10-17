@@ -8,8 +8,8 @@
 
 <br/><br/>
 
-<!-- Profile Views — using visitcount.itsvg.in (reliable, no 402) -->
-<img src="https://visitcount.itsvg.in/api?id=RashmikaTR&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
+<!-- Profile Views — komarev.com (confirmed working ✅) -->
+<img src="https://komarev.com/ghpvc/?username=RashmikaTR&color=7FDBFF&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/RashmikaTR?tab=followers">
   <img src="https://img.shields.io/github/followers/RashmikaTR?label=Followers&style=for-the-badge&color=7FDBFF&labelColor=1a1a2e" />
@@ -114,11 +114,8 @@ const tharusha = {
 
 <div align="center">
 
-<!-- Native GitHub contribution calendar via github-readme-stats (same reliable Vercel instance as stats) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RashmikaTR&theme=tokyonight&hide_border=true" width="100%" />
-
-<!-- Reliable activity graph via githubchart.com — plain SVG, no backend limits -->
-<img src="https://ghchart.rshah.org/7FDBFF/RashmikaTR" alt="RashmikaTR's Contribution Chart" width="100%" />
+<!-- ghchart.rshah.org — confirmed working ✅, renders real contribution squares as SVG -->
+<img src="https://ghchart.rshah.org/7FDBFF/RashmikaTR" alt="Tharusha's Contribution Chart" width="100%" />
 
 </div>
 
